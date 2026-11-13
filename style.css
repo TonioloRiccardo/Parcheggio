@@ -1,0 +1,15 @@
+.posto {
+    border: 2px solid black; 
+    border-radius: 5px; 
+    padding: 10px; 
+    width: 200px; 
+    height: 200px; 
+    margin: 20px; 
+    display: grid; 
+    justify-items: 
+    center; align-items: center;
+}
+
+.occupato {
+    background-color: red;
+}
